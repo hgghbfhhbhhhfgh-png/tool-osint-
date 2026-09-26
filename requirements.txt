@@ -1,0 +1,5 @@
+phonenumbers
+rich
+requests
+dnspython
+pyOpenSSL
