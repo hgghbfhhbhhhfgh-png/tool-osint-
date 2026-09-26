@@ -1,4 +1,3 @@
-cat << 'EOF' > black_vortex_osint.py
 import socket
 import urllib.parse
 import os
@@ -680,5 +679,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
-python black_vortex_osint.py
